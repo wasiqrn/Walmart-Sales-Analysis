@@ -1,4 +1,4 @@
-![Sample Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRztL0WzSHxYdzc8FmFZ8pCYA8GxsAThVhioAoQIrfPmnM2527iMnLvRXyd_5VO1xYdRg&usqp=CAU)
+![Sample Image]https://www.google.com/search?sca_esv=bcbbf092352eb713&sxsrf=ANbL-n5QJHcvUQv6zw-_y1CMElzrKOQbvw:1774668457208&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKp9lEhFAN_4ain3HSNQWw-mMGVXS0bCMe2eDZOQ2MOTwku4JZj8j7h5H6ulFB10v3RyE3rMCrdBNyWsuQfLFEDWjdBJd03MlQdYQGvo7vipitT1p05aR3YSVWKlONFhIiApX9sRKtALwN7BaYAKcMd3n4sEw4aMY5y3zb7UK1qDzXPkiKdAEkAb5zF2F-kfx-UReAaqg&q=walmart&sa=X&ved=2ahUKEwi-pfGX08GTAxUmSGwGHdA0M2gQtKgLegQIHRAB&biw=1707&bih=772&dpr=1.13#sv=CAMSVhoyKhBlLTVmVW83UVY0S0hUaEZNMg41ZlVvN1FWNEtIVGhGTToOeGlBVllJTkdQeFZ1RU0gBCocCgZtb3NhaWMSEGUtNWZVbzdRVjRLSFRoRk0YADABGAcguIyQfUoIEAEYASABKAE
 
 
 # Walmart-Sales-Data-Analysis--SQL-Project
